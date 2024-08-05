@@ -1,0 +1,1 @@
+name = input("What's ure name brah?")
