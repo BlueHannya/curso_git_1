@@ -1,0 +1,1 @@
+print("olhe só minha landpage de exemplo para o site amigos.")
